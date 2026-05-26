@@ -31,12 +31,13 @@ TEXT:
 RFC Author(s):
 --------------
 
-Instructions for Completing AUTH48
+Final Review for RFC-to-be XXXX <draft-XX>
 
-Your document has now entered AUTH48.  Once it has been reviewed and
-approved by you and all coauthors, it will be published as an RFC.
-If an author is no longer available, there are several remedies
-available as listed in the FAQ (https://www.rfc-editor.org/faq/).
+Your document is now available for Final Review (previously AUTH48). 
+Once it has been reviewed and approved by you and all coauthors, it 
+will be published as an RFC. If an author is no longer available, there 
+are several remedies available as listed in the FAQ 
+(https://www.rfc-editor.org/faq/).
 
 You and you coauthors are responsible for engaging other parties
 (e.g., Contributors or Working Group) as necessary before providing
@@ -108,8 +109,8 @@ include:
       responsible ADs, and the document shepherd).
 
    *  auth48archive@rfc-editor.org, which is a new archival mailing list
-      to preserve AUTH48 conversations; it is not an active discussion
-      list:
+      to preserve discussion about the document while in the RPC editorial 
+      queue; it is not an active discussion list:
 
      *  More info:
         https://mailarchive.ietf.org/arch/msg/ietf-announce/yb6lpIGh-4Q9l2USxIAe6P8O4Zc
@@ -175,7 +176,7 @@ Diff of the XML:
 Tracking progress
 -----------------
 
-The details of the AUTH48 status of your document are here:
+Details on the status of your Final Review are here:
    https://www.rfc-editor.org/auth48/LCXXXX
 
 Please let us know if you have any questions.
